@@ -233,7 +233,7 @@ The final dashboard was built as an **Executive Overview** page in Power BI.
 
 ### Dashboard Preview
 
-![Executive Overview Dashboard](https://raw.githubusercontent.com/Neelaksh-Lohani/Inventory-Policy-Assessment-and-Reorder-Decision-Analysis/main/Dashboard.png)
+![Executive Overview Dashboard](https://raw.githubusercontent.com/Neelaksh-Lohani/Inventory-Policy-Assessment-and-Reorder-Decision-Analysis/main/dashboard/Dashboard.png)
 
 
 
