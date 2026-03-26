@@ -231,6 +231,12 @@ The final dashboard was built as an **Executive Overview** page in Power BI.
 - impact concentration by category
 - sales distribution by category
 
+### Dashboard Preview
+
+> Replace the path below with your actual image path inside the GitHub repo.
+
+![Executive Overview Dashboard](visuals/dashboard_overview.png)
+
 ### Why only one dashboard was used
 
 A second diagnostic dashboard was considered but intentionally skipped because the dataset did not produce enough additional differentiated insight to justify another full page of visuals.
@@ -291,3 +297,48 @@ The expected business benefit would be:
 - more disciplined replenishment decisions
 
 ---
+
+## 14. Skills Demonstrated
+
+This project demonstrates:
+
+- data auditing and data cleaning
+- business KPI design
+- inventory and replenishment analysis
+- SQL-based validation and querying
+- Power BI dashboard development
+- DAX measure creation
+- business insight generation
+- recommendation framing for decision-makers
+- portfolio storytelling
+
+---
+
+## 15. Limitations
+
+This project has some important limitations:
+
+- it is a policy assessment project, not a full optimization model
+- service-risk evidence in the dataset is limited
+- some diagnostic dimensions showed weak differentiation because ordering behavior was broadly continuous
+- the final month in the monthly trend may require cleanup for portfolio-perfect presentation quality if the source period is incomplete
+
+These limitations were considered while framing the final conclusions.
+
+---
+
+## 16. Next Improvements
+
+Possible future improvements:
+
+- build a proper reorder simulation model
+- test sensitivity to lead time and demand volatility
+- add service-level target assumptions
+- estimate working-capital release in monetary value
+- extend SQL analysis and automate KPI generation
+
+---
+
+## 17. About This Project
+
+This project was created as part of a portfolio focused on **Business Operations and Supply Chain Analytics**, with an emphasis on turning raw transactional data into business decisions that are understandable to both technical and non-technical stakeholders.
