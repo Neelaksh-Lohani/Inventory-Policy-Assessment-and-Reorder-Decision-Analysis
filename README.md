@@ -235,7 +235,7 @@ The final dashboard was built as an **Executive Overview** page in Power BI.
 
 > Replace the path below with your actual image path inside the GitHub repo.
 
-![Executive Overview Dashboard](visuals/dashboard_overview.png)
+https://github.com/Neelaksh-Lohani/Inventory-Policy-Assessment-and-Reorder-Decision-Analysis/blob/main/Dashboard.png?raw=true
 
 ### Why only one dashboard was used
 
